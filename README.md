@@ -26,12 +26,23 @@ GIF created with Kap
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## App Brainstorming (Step 4)
-
+# App Brainstorming (Step 4)
+Favorite Applications
+ - TikTok
+    - Video scrolling
+    - Learns from your viewing history
+ - Waze
+   - Live traffic updates
+   - Easy to navigate interface
+ - AirBnB
+   - Show total price including fees of your stay
+   - Gives information about location of home such as activities and restaurants
+ Application Idea
+ - An app that would make a trip to the grocery store more efficient. The app would use location information to determine what store you are in first. Then based off that pull the map of the store along with item information. Using a list that you make beforehand the app would then show you the most efficient route through the store to get the items you need. It would also be able to pull information letting you know if an item is out of stock and needs to be skipped.
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+ The learning curve for xcode is the only thing that hindered me.
 ## License
 
     Copyright [2023] [Joshua Randle]
